@@ -1,0 +1,4 @@
+../Core/Src/EE240_LabPart06_StudentSolution.c:27:5:ProcessQueryCommand	9
+../Core/Src/EE240_LabPart06_StudentSolution.c:120:17:SelectFromCarDatabase	1
+../Core/Src/EE240_LabPart06_StudentSolution.c:140:5:SortCarList	1
+../Core/Src/EE240_LabPart06_StudentSolution.c:152:5:FreeCarListNodes	1

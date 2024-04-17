@@ -1,0 +1,12 @@
+../Core/Src/UART5_StreamIO.c:61:5:SetLED_ForReception	24	static
+../Core/Src/UART5_StreamIO.c:80:6:UnsetLED_ForReception	4	static
+../Core/Src/UART5_StreamIO.c:98:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/UART5_StreamIO.c:133:6:Start_UART5_Reception	16	static
+../Core/Src/UART5_StreamIO.c:155:6:Stop_UART5_Reception	16	static
+../Core/Src/UART5_StreamIO.c:174:5:BlockingTransmit_cBufferOut	24	static
+../Core/Src/UART5_StreamIO.c:197:8:UART5_OpenInStream	8	static
+../Core/Src/UART5_StreamIO.c:228:8:UART5_OpenOutStream	8	static
+../Core/Src/UART5_StreamIO.c:247:5:UART5_CloseOutStream	24	static
+../Core/Src/UART5_StreamIO.c:271:6:LoadTestDataIntoUART5_Buffers	16	static
+../Core/Src/UART5_StreamIO.c:290:6:Initialize_cBufferIn	16	static
+../Core/Src/UART5_StreamIO.c:304:6:Initialize_cBufferOut	16	static
